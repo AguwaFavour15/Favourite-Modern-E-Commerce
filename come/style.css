@@ -1,0 +1,23 @@
+body {  
+    font-family: Arial, sans-serif;  
+}  
+
+.container {  
+    width: 80%;  
+    margin: auto;  
+}  
+
+button {  
+    margin-top: 10px;  
+    padding: 10px 20px;  
+    background-color: #007BFF;  
+    color: white;  
+    border: none;  
+    border-radius: 5px;  
+    cursor: pointer;  
+}  
+
+.timer {  
+    color: red;  
+    font-weight: bold;  
+}  
